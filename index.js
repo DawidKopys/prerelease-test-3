@@ -1,5 +1,5 @@
 function hello() {
-  return 'hello'
+  return 'hello nobatching'
 }
 
 module.exports = hello
