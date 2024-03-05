@@ -1,6 +1,6 @@
 {
   "name": "@dkopys/prerelease-test-2",
-  "version": "0.0.1-nobatching.2",
+  "version": "0.0.1-alpha.3",
   "description": "hello world",
   "main": "index.js",
   "scripts": {
