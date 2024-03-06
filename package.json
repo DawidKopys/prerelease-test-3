@@ -1,5 +1,5 @@
 {
-  "name": "@dkopys/prerelease-test-2",
+  "name": "@dkopys/prerelease-test-3",
   "version": "0.0.1-alpha.3",
   "description": "hello world",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/DawidKopys/prerelease-test-2.git"
+    "url": "git+ssh://git@github.com/DawidKopys/prerelease-test-3.git"
   },
   "author": "Dawid Kopys",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DawidKopys/prerelease-test-2/issues"
+    "url": "https://github.com/DawidKopys/prerelease-test-3/issues"
   },
-  "homepage": "https://github.com/DawidKopys/prerelease-test-2#readme"
+  "homepage": "https://github.com/DawidKopys/prerelease-test-3#readme"
 }
