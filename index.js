@@ -1,5 +1,5 @@
 function hello() {
-  return 'hello world v21'
+  return 'hello world stable'
 }
 
 module.exports = hello
